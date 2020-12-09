@@ -1,4 +1,4 @@
-## Visual Acuity
+## 1 Visual Acuity
 ![image](https://github.com/kampfcl3/ctf/blob/main/pic/Visual%20Acuity-1.png)
 ```
 目標flag: hitcon{enjoy_our_adaptive_scoring_system}
